@@ -123,6 +123,7 @@ Explore this collection of powerful open-source tools, perfect for students, dev
 - **[SikuliX](https://www.sikulix.com/)** - Automates everything seen on screen.
 - **[Tasker](https://tasker.joaoapps.com/)** - Android automation.
 - **[Zappa](https://zappa.io/)** - Deploy serverless applications on AWS Lambda.
+- **[LatchLayout](https://github.com/stanczykwyatt/latchlayout)** - Windows 11 workspace launcher with configurable hold shortcuts, browser profiles, URLs, and per-window display layouts (preview).
 
 ---
 
